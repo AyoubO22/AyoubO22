@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/AyoubO22/atelier-sticker-holo"><img src="assets/hello-world.gif" width="640" alt="A pearly holographic sticker that reads AyoubO22, hello, world, peeled off by its corner"></a>
+<a href="https://ayoubo22.github.io/atelier-sticker-holo/"><img src="assets/hello-world.gif" width="640" alt="A pearly holographic sticker that reads AyoubO22, hello, world, peeled off by its corner"></a>
 
-<sub>Rendered in real time by my <a href="https://github.com/AyoubO22/atelier-sticker-holo">holographic sticker workshop</a>: hand-written WebGL shaders, zero libraries.</sub>
+<sub>Rendered in real time by my <a href="https://github.com/AyoubO22/atelier-sticker-holo">holographic sticker workshop</a>: hand-written WebGL shaders, zero libraries. <a href="https://ayoubo22.github.io/atelier-sticker-holo/">Peel one yourself</a>.</sub>
 
 </div>
 
@@ -25,7 +25,7 @@ A team project built as Docker microservices. I made 80+ commits to it: the wall
 An iOS app to rate, review and track your games: a library with statuses, a play-session diary, stats, monthly goals and achievements to unlock, on top of RAWG's database of 500,000+ games. Over 18,000 lines of Swift with async/await, 26 unit tests, English and French localization, and a CI pipeline that builds and tests every push on macOS.
 
 ### [Holographic sticker workshop](https://github.com/AyoubO22/atelier-sticker-holo) · the one at the top
-`JavaScript` `WebGL/GLSL` `Canvas 2D` `Swift` `AppKit`
+`JavaScript` `WebGL/GLSL` `Canvas 2D` `Swift` `AppKit` · **[Live demo](https://ayoubo22.github.io/atelier-sticker-holo/)**
 
 Type your text, pick a font, colors, material and cut, then grab an edge and pull: the sticker lands in your clipboard as a transparent PNG. The glitter is a shader (Voronoi cells that catch the light depending on the angle), the die-cut comes from an exact Euclidean distance transform (Felzenszwalb & Huttenlocher), and the peel wraps the sticker around a cylinder that follows your cursor. No libraries, and the Mac app builds with plain `swiftc`, without an Xcode project.
 
