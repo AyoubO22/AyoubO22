@@ -2,7 +2,7 @@
 
 <img src="assets/header.jpg" width="640" alt="Black and white manga close-up of determined eyes, sweat dripping">
 
-<sub><i>"Not everyone who works hard is rewarded. But everyone who succeeded worked hard."</i><br>Coach Kamogawa, <b>Hajime no Ippo</b>, my favorite manga</sub>
+<sub><i>"Not everyone who works hard is rewarded. But everyone who succeeded worked hard."</i><br>Coach Kamogawa, <b>Hajime no Ippo</b>, my favorite manga :) </sub>
 
 </div>
 
